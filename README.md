@@ -1,2 +1,5 @@
-# Calculator-using-JFrames
-Made a basic gui calculator using JFrames
+The Java code presented here showcases a fully functional calculator application built using the Swing framework for GUI development. Beyond its sleek design and user-friendly interface, the calculator boasts robust functionality for handling arithmetic expressions. Users can input complex mathematical expressions with ease, including decimal numbers and multi-digit operands. The application evaluates expressions accurately, adhering to standard mathematical rules such as operator precedence and associativity.
+
+Moreover, the calculator implements error handling mechanisms to gracefully manage invalid input or mathematical operations that result in errors, ensuring a smooth user experience. It includes features like backspace functionality to delete the last character entered and a clear function to reset the display for new calculations. The code is well-structured, following best practices in object-oriented programming and encapsulation to enhance readability and maintainability.
+
+This calculator serves not only as a practical tool for performing day-to-day calculations but also as a valuable educational resource for aspiring Java developers looking to deepen their understanding of GUI development, event handling, and algorithm implementation. Its simplicity and versatility make it an ideal starting point for further customization and expansion, allowing developers to add advanced features or integrate it into larger software projects.
